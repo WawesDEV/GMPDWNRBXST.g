@@ -2,4 +2,6 @@
 
 # GMPDWNRBXST.gg
 
-img file 
+img file  
+v1.o LOGO 
+V2.0 random 

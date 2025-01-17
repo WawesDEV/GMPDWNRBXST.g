@@ -4,4 +4,4 @@
 
 img file  
 v1.o LOGO 
-V2.0 random 
+V2.0 random card
